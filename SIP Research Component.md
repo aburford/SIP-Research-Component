@@ -1,6 +1,5 @@
 Taking School Attendance
-====
-====
+=======
 
 # Why do schools take attendance?
 
